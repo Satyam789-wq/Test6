@@ -2,6 +2,9 @@ How are u?
 
 Wast fellow
 
+<<<<<<< HEAD
 Satyam
 
 Welcome to Github!
+=======
+>>>>>>> 1b075f363cd7d64a9d7771ec3bf67095bbc2645a
